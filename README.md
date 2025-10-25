@@ -1,3 +1,5 @@
+[![Java CI with Maven](https://github.com/snezhka003/javaqa_HW_EXCEPTIONS/actions/workflows/maven.yml/badge.svg?branch=main&event=push)](https://github.com/snezhka003/javaqa_HW_EXCEPTIONS/actions/workflows/maven.yml)
+
 ## Задание 1 (обязательное)
 
 Представим себе репозиторий, хранящий товары.
